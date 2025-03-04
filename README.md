@@ -1,2 +1,2 @@
-# ai-study-notes
+# Ai-study-notes
 AI-Powered Study Notes Generator
